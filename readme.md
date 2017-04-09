@@ -4,3 +4,6 @@
 - [不知语冰](http://nullice.com/about/) 
   > UI 设计师，软件开发者。
   > 缘：查找 Adobe CEP 开发教程时遇到。
+- [LIBFEIHU](http://feihu.me/about/)
+  > iOS 开发
+  > 缘：知无涯之回车换行的故事
