@@ -10,3 +10,9 @@
 - [丁宇](http://dingyu.me/)
 > 极简主义网页设计师
 > 缘：锤子便签里偶然翻到
+
+## 前端开发
+- [sutaking's Blog](http://njfeng.com/#blog)
+>
+- [Rebornix](https://rebornix.com/)
+> 知乎 / 维护一个大型开源项目 Visual Studio Code 是怎样的体验
