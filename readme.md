@@ -11,6 +11,10 @@
 > 极简主义网页设计师
 > 缘：锤子便签里偶然翻到
 
+ ## 文人
+ - [仲夏之门](https://www.douban.com/people/78548715/)
+  > 龙斌大话电影撰稿人
+
 ## 前端开发
 - [sutaking's Blog](http://njfeng.com/#blog)
 >
