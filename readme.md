@@ -15,6 +15,11 @@
  - [仲夏之门](https://www.douban.com/people/78548715/)
   > 龙斌大话电影撰稿人
 
+ ## 生物科学
+ - [尹烨](http://baike.baidu.com/item/%E5%B0%B9%E7%83%A8)
+  > 华大基因股份有限公司执行总裁
+  > 缘：一席
+
 ## 前端开发
 - [sutaking's Blog](http://njfeng.com/#blog)
 >
