@@ -16,8 +16,7 @@
 
 ## 文人
 - [仲夏之门](https://www.douban.com/people/78548715/)
-- adfasdf
-  > 龙斌大话电影撰稿人
+	> 龙斌大话电影撰稿人
 - [傅佩荣](https://zh.wikipedia.org/wiki/%E5%82%85%E4%BD%A9%E6%A6%AE)
 	> 哲学教授
 	> 缘：台大宗教哲学公开课
