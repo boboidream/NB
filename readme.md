@@ -15,7 +15,7 @@
 	> 缘：知乎
 
 ## 文人
- - [仲夏之门](https://www.douban.com/people/78548715/)
+- [仲夏之门](https://www.douban.com/people/78548715/)
   > 龙斌大话电影撰稿人
 - [傅佩荣](https://zh.wikipedia.org/wiki/%E5%82%85%E4%BD%A9%E6%A6%AE)
 	> 哲学教授
@@ -25,9 +25,9 @@
 	> 缘：力文推荐其黑格尔课程
 
 ## 生物科学
- - [尹烨](http://baike.baidu.com/item/%E5%B0%B9%E7%83%A8)
+- [尹烨](http://baike.baidu.com/item/%E5%B0%B9%E7%83%A8)
   > 华大基因股份有限公司执行总裁
-  > 缘：一席
+  缘：一席
 
 ## 前端开发
 - [sutaking's Blog](http://njfeng.com/#blog)
