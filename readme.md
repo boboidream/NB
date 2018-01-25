@@ -13,6 +13,9 @@
 - [天之虹](http://blog.sina.com.cn/u/1224467617)
 	> 游戏策划大神
 	> 缘：知乎
+- [BreakWa](https://breakwa11.blogspot.ca/search/label/GFW)
+	> ShadowsocksR 作者
+	> 缘：VPS 梯子
 
 ## 文人
 - [仲夏之门](https://www.douban.com/people/78548715/)
