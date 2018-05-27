@@ -16,6 +16,9 @@
 - [BreakWa](https://breakwa11.blogspot.ca/search/label/GFW)
 	> ShadowsocksR 作者
 	> 缘：VPS 梯子
+- [ZeRo Xu](https://github.com/xzhih)
+	> 黑苹果，私有云
+	> 缘：折腾 HiDPI 时找到脚本
 
 ## 文人
 - [仲夏之门](https://www.douban.com/people/78548715/)
@@ -41,3 +44,10 @@
 ## 后端开发
 - [AlloVince](https://avnpc.com/pages/about)
 	> 徐谦，华尔街见闻架构师
+
+## 佛学
+- 黄慧音
+	> 佛曲，演唱
+	
+## 导演
+不思凡：《大护法》	
