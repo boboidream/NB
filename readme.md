@@ -19,6 +19,8 @@
 - [ZeRo Xu](https://github.com/xzhih)
 	> 黑苹果，私有云
 	> 缘：折腾 HiDPI 时找到脚本
+- [ManateeLazyCat](https://www.jianshu.com/u/E6EbkP)
+	> deepin 系统开发者
 
 ## 文人
 - [仲夏之门](https://www.douban.com/people/78548715/)
